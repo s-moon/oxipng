@@ -95,7 +95,7 @@ repos:
 
 ## Docker
 
-A Docker image is availlable at `ghcr.io/shssoichiro/oxipng` for `linux/amd64` and `linux/arm64`.
+A Docker image is available at `ghcr.io/shssoichiro/oxipng` for `linux/amd64` and `linux/arm64`.
 
 You can use it the following way:
 
